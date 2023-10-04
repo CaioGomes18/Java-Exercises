@@ -3,6 +3,7 @@ public class App {
         System.out.println("olá!");
 
         int v = 1;
+        int c = 2;
 
         if(v == 1)
         {
