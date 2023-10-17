@@ -1,8 +1,8 @@
 public class Declare {
     public static void main(String[] args)  
     {
-       String primeiroNome = "caio";
-       String segundoNome = "gomes";
+       String primeiroNome = "nelson";
+       String segundoNome = "paretto";
 
        String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
 
