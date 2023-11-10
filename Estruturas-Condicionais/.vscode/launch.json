@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "edu.caio.condicionais.PlanoOperadora",
+            "projectName": "Estruturas-Condicionais_855467a5"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "edu.caio.condicionais.SwitchCase",
+            "projectName": "Estruturas-Condicionais_855467a5"
+        },
+        {
+            "type": "java",
             "name": "CondicoesEncadeadas",
             "request": "launch",
             "mainClass": "edu.caio.condicionais.CondicoesEncadeadas",
