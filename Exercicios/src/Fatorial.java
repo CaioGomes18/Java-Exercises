@@ -13,5 +13,6 @@ public class Fatorial{
         }
 
         System.out.println(fatorial);
+        input.close();
     }
 }
